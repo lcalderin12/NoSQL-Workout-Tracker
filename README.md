@@ -44,4 +44,4 @@ Use this app tp track your daily exercises.
 
 ## Repositories
 - [Heroku Deployed Link](https://recipes-tracker-hanzee.herokuapp.com/)
-- [Project Repo](https://github.com/lcalderin12/NoSQL-Workout-Tracker)
+- [Project Repo](https://warm-wildwood-39017.herokuapp.com/)
